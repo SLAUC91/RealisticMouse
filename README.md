@@ -13,4 +13,4 @@ My motivation behind this project was to defeat certain heuristics that are curr
 In this project I basically achieve this via Factorials, Bernstein basis, Bezier Curves, Gaussian Distribution.
 
 ##Update
-Will be updated soon.
+Current bugs: Excessive arc in some situations. (Fixed Soon<sup>TM</sup>)  
